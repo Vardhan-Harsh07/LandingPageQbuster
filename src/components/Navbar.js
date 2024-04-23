@@ -45,7 +45,7 @@ const Navbar = () => {
     {
       text: "Client Corner",
       icon: <AccountCircleIcon />,
-      hf: "https://login-sign-react.vercel.app/signup",
+      hf: "https://admin-panel-q-buster.vercel.app/",
     },
     
     
