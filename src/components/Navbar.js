@@ -40,7 +40,7 @@ const Navbar = () => {
     {
       text: "Contact",
       icon: <PhoneRoundedIcon />,
-      hf: "#about-section-container",
+      hf: "#contact-page",
     },
     {
       text: "Client Corner",
