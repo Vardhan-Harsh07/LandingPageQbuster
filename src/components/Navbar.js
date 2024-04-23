@@ -43,22 +43,19 @@ const Navbar = () => {
       hf: "#about-section-container",
     },
     {
-      text: "Admin's Corner",
+      text: "Client Corner",
       icon: <AccountCircleIcon />,
       hf: "#about-section-container",
     },
-    {
-      text: "Add Restaurant",
-      icon: <AddCircleOutlineIcon />,
-      hf: "#about-section-container",
-    },
+    
+    
   ];
 
   return (
-    <nav>
-      <button href="" className="nav-logo-container">
+    <nav> 
+      <a href="youtube.com " className="nav-logo-container">
         Q-Buster
-      </button>
+      </a>
       <div className="navbar-links-container">
         {menuOptions.map((item, index , hf) => (
           <a key={index} href={item.hf}>
