@@ -27,7 +27,7 @@ Focus on your studies or other activities while you wait
 Manage your budget by tracking your food spending
                 </p>
                 <div className="about-buttons-container">
-                    <a className="secondary-button" href="https://www.twitch.tv/tarik"><BsFillPlayCircleFill/>Watch Video</a>
+                    <a className="secondary-button" href="https://youtu.be/wSofV2HQ9x0"><BsFillPlayCircleFill/>Watch Video</a>
                      
                     
                     

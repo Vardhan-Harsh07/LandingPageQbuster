@@ -20,7 +20,7 @@ import AccountCircleIcon from "@mui/icons-material/AccountCircle";
 import AddCircleOutlineIcon from "@mui/icons-material/AddCircleOutline";
 
 function Frapp(){
-    window.location.href='http://localhost:3001/';
+    window.location.href='https://q-buster-phi.vercel.app/login';
 }
 
 const Navbar = () => {
@@ -45,7 +45,7 @@ const Navbar = () => {
     {
       text: "Client Corner",
       icon: <AccountCircleIcon />,
-      hf: "#about-section-container",
+      hf: "https://login-sign-react.vercel.app/signup",
     },
     
     

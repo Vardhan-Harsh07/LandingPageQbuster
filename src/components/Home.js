@@ -21,9 +21,11 @@ const Home = () => {
               Order food from your favorite campus stores and Skip the wait, get your plate
               No more standing around for ages, wondering when you'll finally get your food.
               </p>
-              <button className="secondary-button">
-                Order Now <FiArrowRight />
-              </button>
+              <a href="https://q-buster.vercel.app/">
+  <button className="secondary-button">
+    Order Now <FiArrowRight />
+  </button>
+</a>
           </div>
           <div className="home-image-container"></div>
             <img src={BannerImage} alt="Food Bowl" />
